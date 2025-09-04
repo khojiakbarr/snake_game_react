@@ -1,5 +1,5 @@
-# Write an English README.md that matches the current (static food) component
-readme = """# 🐍 React Snake Game
+
+# 🐍 React Snake Game
 
 A modern **Snake Game** built with **React.js**, featuring smooth segment animations powered by **Framer Motion** and clean styling with **Tailwind CSS** (optional).  
 The food is **static (no pulsing)** by default, with a subtle **eat-burst** effect when collected. Works great on desktop and mobile.
